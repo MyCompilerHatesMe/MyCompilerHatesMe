@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aadi Jha</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/AadiCJ/Projects](https://github.com/AadiCJ/Projects)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/AadiCJ/Projects)
 
 - 📫 How to reach me **acjha990@gmail.com**
 
