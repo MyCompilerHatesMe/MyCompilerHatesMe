@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aadi Jha</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h1 align="center">Hi, I'm Aadi Jha</h1>
 
 - All of my Java projects are available at [Projects](https://github.com/AadiCJ/Projects)
 - All of my python projects are available at [Python Projects](https://github.com/AadiCJ/PythonProjects)
