@@ -1,8 +1,5 @@
 <h1 align="center">Hi, I'm AJ.</h1>
 
-- All of my Java projects are available at [Projects](https://github.com/MyCompilerHatesMe/Projects)
-- All of my python projects are available at [Python Projects](https://github.com/MyCompilerHatesMe/PythonProjects)
-
 - 📫 How to reach me **mycompilerhatesme@gmail.com**
 
   
