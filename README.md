@@ -9,9 +9,9 @@
 
 ### About Me
 
-- I’m currently working on **Zenith**.
-- I’m currently learning **Programming Language Implementation**.
-- Ask me about **Gane Dev, Java.**.
+- I’m currently working on **Zenith**
+- I’m currently learning **Programming Language Implementation**
+- Ask me about **Gane Dev, Java**
 - How to reach me: **mycompilerhatesme@gmail.com**
 
 ---
