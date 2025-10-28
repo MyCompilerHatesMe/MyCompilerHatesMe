@@ -1,7 +1,6 @@
 # Hi, I'm AJ.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3d6bW1wNG9wN202MXVsa3Jwd2N1cmF2bWc5dHdvd3J0aXlsYWp6ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpYqx/giphy.gif" width="50px" />
   <em>"A developer who occasionally battles the compiler... and sometimes wins."</em>
 </p>
 
