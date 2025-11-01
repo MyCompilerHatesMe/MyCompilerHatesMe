@@ -10,7 +10,7 @@
 
 - I’m currently working on **Zenith**
 - I’m currently learning **Programming Language Implementation**
-- Ask me about **Gane Dev, Java**
+- Ask me about **Game Dev, Java**
 - How to reach me: **mycompilerhatesme@gmail.com**
 
 ---
