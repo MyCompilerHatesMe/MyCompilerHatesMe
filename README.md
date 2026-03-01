@@ -52,15 +52,6 @@
 
 ---
 
-### My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MyCompilerHatesMe&show_icons=true&theme=radical" alt="AJ's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyCompilerHatesMe&layout=compact&theme=radical" alt="AJ's Top Languages" />
-</p>
-
----
-
 ### Connect with Me
 
 <p align="center">
