@@ -8,12 +8,12 @@
 
 ### About Me
 
-- 🔧 Currently building **Zenith** — a statically typed, tree-walking interpreted language in C++
-- 🖐️ Also working on **RadialKeyboard** — a gesture-driven virtual keyboard using OpenCV + MediaPipe
-- 📚 Learning **Programming Language Implementation** and **Offensive Security**
-- 🐧 Daily driving **Arch Linux + Hyprland**
-- 💬 Ask me about **Game Dev, Language Design, or Linux setups**
-- 📬 Reach me at **mycompilerhatesme@gmail.com**
+- Currently building **Zenith** — a statically typed, tree-walking interpreted language in C++
+- Also working on **RadialKeyboard** — a gesture-driven virtual keyboard using OpenCV + MediaPipe
+- Learning **Programming Language Implementation** and **Offensive Security**
+- Daily driving **Arch Linux + Hyprland**
+- Ask me about **Game Dev, Language Design, or Linux setups**
+- Reach me at **mycompilerhatesme@gmail.com**
 
 ---
 
